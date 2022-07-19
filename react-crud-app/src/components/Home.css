@@ -1,0 +1,13 @@
+
+.heading {
+    color: blue;
+}     
+
+img {
+    width: 70%;
+    object-fit: cover;
+    object-position: center;
+    margin-left: 350px;
+    position: relative;
+}
+
